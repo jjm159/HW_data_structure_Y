@@ -139,6 +139,7 @@ class d_linked_list{
                 head = temp;
             }
             tail = head;
+			length = 0; // 이거 빼먹었다ㅠㅠ
         }
 
 
